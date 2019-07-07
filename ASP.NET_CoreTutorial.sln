@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP.NET_CoreTutorial", "ASP.NET_CoreTutorial\ASP.NET_CoreTutorial.csproj", "{B3D3000F-BBEA-4C42-B7EE-2F3E3D53144A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3D3000F-BBEA-4C42-B7EE-2F3E3D53144A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3D3000F-BBEA-4C42-B7EE-2F3E3D53144A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3D3000F-BBEA-4C42-B7EE-2F3E3D53144A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3D3000F-BBEA-4C42-B7EE-2F3E3D53144A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {962471E0-0DF0-4972-8211-7377B97435D9}
+	EndGlobalSection
+EndGlobal

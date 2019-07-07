@@ -1,0 +1,14 @@
+C:\Users\Curiks\source\repos\ASP.NET_CoreTutorial\ASP.NET_CoreTutorial\bin\Debug\netcoreapp2.1\ASP.NET_CoreTutorial.deps.json
+C:\Users\Curiks\source\repos\ASP.NET_CoreTutorial\ASP.NET_CoreTutorial\bin\Debug\netcoreapp2.1\ASP.NET_CoreTutorial.runtimeconfig.json
+C:\Users\Curiks\source\repos\ASP.NET_CoreTutorial\ASP.NET_CoreTutorial\bin\Debug\netcoreapp2.1\ASP.NET_CoreTutorial.runtimeconfig.dev.json
+C:\Users\Curiks\source\repos\ASP.NET_CoreTutorial\ASP.NET_CoreTutorial\bin\Debug\netcoreapp2.1\ASP.NET_CoreTutorial.dll
+C:\Users\Curiks\source\repos\ASP.NET_CoreTutorial\ASP.NET_CoreTutorial\bin\Debug\netcoreapp2.1\ASP.NET_CoreTutorial.pdb
+C:\Users\Curiks\source\repos\ASP.NET_CoreTutorial\ASP.NET_CoreTutorial\obj\Debug\netcoreapp2.1\ASP.NET_CoreTutorial.csprojAssemblyReference.cache
+C:\Users\Curiks\source\repos\ASP.NET_CoreTutorial\ASP.NET_CoreTutorial\obj\Debug\netcoreapp2.1\ASP.NET_CoreTutorial.csproj.CoreCompileInputs.cache
+C:\Users\Curiks\source\repos\ASP.NET_CoreTutorial\ASP.NET_CoreTutorial\obj\Debug\netcoreapp2.1\ASP.NET_CoreTutorial.RazorAssemblyInfo.cache
+C:\Users\Curiks\source\repos\ASP.NET_CoreTutorial\ASP.NET_CoreTutorial\obj\Debug\netcoreapp2.1\ASP.NET_CoreTutorial.RazorAssemblyInfo.cs
+C:\Users\Curiks\source\repos\ASP.NET_CoreTutorial\ASP.NET_CoreTutorial\obj\Debug\netcoreapp2.1\ASP.NET_CoreTutorial.AssemblyInfoInputs.cache
+C:\Users\Curiks\source\repos\ASP.NET_CoreTutorial\ASP.NET_CoreTutorial\obj\Debug\netcoreapp2.1\ASP.NET_CoreTutorial.AssemblyInfo.cs
+C:\Users\Curiks\source\repos\ASP.NET_CoreTutorial\ASP.NET_CoreTutorial\obj\Debug\netcoreapp2.1\ASP.NET_CoreTutorial.RazorTargetAssemblyInfo.cache
+C:\Users\Curiks\source\repos\ASP.NET_CoreTutorial\ASP.NET_CoreTutorial\obj\Debug\netcoreapp2.1\ASP.NET_CoreTutorial.dll
+C:\Users\Curiks\source\repos\ASP.NET_CoreTutorial\ASP.NET_CoreTutorial\obj\Debug\netcoreapp2.1\ASP.NET_CoreTutorial.pdb
